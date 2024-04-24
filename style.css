@@ -1,0 +1,38 @@
+#main {
+  background-color: black;
+  height: 60px;
+}
+
+#logo {
+  color: #f08804;
+  font-size: 25px;
+}
+
+button {
+  background-color: #f08804;
+}
+
+a {
+  margin-right: 200px;
+  color: azure;
+}
+#cont {
+  height: 590px;
+}
+
+.content {
+  height: 100px;
+  width: 100px;
+  border: solid;
+  border-width: 2px;
+  border-color: black;
+  display: inline-block;
+}
+#input {
+  margin-left: 100px;
+}
+footer {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
